@@ -28,7 +28,7 @@
 
 双击新建的连接后，右键“新建数据库”。
 
-![](https://user-images.githubusercontent.com/14957667/200218761-a7299ba0-af39-44fc-94bf-cfb128ad6c77.png)
+![](https://user-images.githubusercontent.com/14957667/200227474-a19fd8af-d110-4b45-b792-5ee97ae00c75.png)
 
 需要导入的数据分别在`pilimi-zlib-index-2022-06-28.torrent`、`pilimi-zlib2-index-2022-08-24-fixed.torrent`中，下载解压得到`pilimi-zlib-index-2022-06-28.sql`、`pilimi-zlib2-index-2022-08-24-fixed.sql`。
 
