@@ -8,7 +8,7 @@
 
 ## 安装 MySQL
 
-`MySQL 8.0.29 x64 for Windows 精简便携版`（Linux、Mac 略）下载解压，右键`install.bat`以管理员身份运行。
+下载`MySQL 8.0.29 x64 for Windows 精简便携版`（Linux、Mac 略）并解压，右键`install.bat`以管理员身份运行。
 
 下次启动、停止在服务中操作。
 
@@ -43,5 +43,11 @@
 安装后设置打开 Web UI，并设置密码：
 
 ![](https://user-images.githubusercontent.com/14957667/200759344-52c9315e-4c0d-454b-bd83-05f77446e227.png)
+
+下载安装`qbittorrent-cli-……-x64.msi`，Linux、Mac 用户从这下载：[Releases・fedarovich/qbittorrent-cli](https://github.com/fedarovich/qbittorrent-cli/releases)
+
+## 下载本程序运行
+
+
 
 ……
