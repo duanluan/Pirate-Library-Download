@@ -8,7 +8,7 @@
 
 ## 安装 MySQL
 
-下载`MySQL 8.0.29 x64 for Windows 精简便携版`（Linux、Mac 略），下载后解压，右键`install.bat`以管理员身份运行。
+`MySQL 8.0.29 x64 for Windows 精简便携版`（Linux、Mac 略）下载解压，右键`install.bat`以管理员身份运行。
 
 下次启动、停止在服务中操作。
 
@@ -32,10 +32,16 @@
 
 需要导入的数据分别在`pilimi-zlib-index-2022-06-28.torrent`、`pilimi-zlib2-index-2022-08-24-fixed.torrent`中，下载解压得到`pilimi-zlib-index-2022-06-28.sql`、`pilimi-zlib2-index-2022-08-24-fixed.sql`。
 
-双击新建的数据库后，右键运行 SQL 文件等待完成，将以上两个 SQL 文件都导入到数据库。需要注意要**取消勾选**“在每个运行中运行多个查询”的选项，否则会报错。
+双击新建的数据库后，右键运行 SQL 文件等待完成（大概半小时），将以上两个 SQL 文件都导入到数据库。需要注意要**取消勾选**“在每个运行中运行多个查询”的选项，否则会报错。
 
 ![](https://user-images.githubusercontent.com/14957667/200219686-f47444a1-b1f5-4fbd-926f-7f8e8e3a00a5.png)
 
-## 运行项目
+## 安装 qBittorrent 设置 Web UI
+
+下载地址：[qBittorrent download latest version](https://www.fosshub.com/qBittorrent.html)，
+
+安装后设置打开 Web UI，并设置密码：
+
+![](https://user-images.githubusercontent.com/14957667/200759344-52c9315e-4c0d-454b-bd83-05f77446e227.png)
 
 ……
