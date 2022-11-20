@@ -1,5 +1,11 @@
 # 简介
 
+一切都已经准备就绪，就差下载的问题解决不了，如果谁能编译一个可以调用批量设置种子文件内容优先级（先全部取消下载，再单独设置一个文件优先下载）的 qBittorrent 欢迎联系我。
+
+qBittorrent：https://github.com/qbittorrent/qBittorrent
+
+qbittorrent-cli 不能批量设置文件优先级：https://github.com/fedarovich/qbittorrent-cli/issues/74
+
 种子数据来源：[Pirate Library Mirror](http://pilimi.org/zlib-downloads.html)
 
 教程相关文件：https://wwk.lanzoue.com/b04j92b8j 密码：h4l3
